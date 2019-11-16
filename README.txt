@@ -22,9 +22,9 @@ BBBBBBBBBBBBBBBBB      ooooooooooo      ooooooooooo   mmmmmm   mmmmmm   mmmmmm  
                                                                                                                       
                                                                                                                       
                                                                                                                       
-                                                                                                                      
-1. Push button Create new user
-	Choose .wav file with sample of voice; write down your name
-2. Push button Identification user
-	Choose .wav file file for test
-	Wait and get result
+Interpriate GUI.py
+	1. Push button Create new user
+		Choose .wav file with sample of voice; write down your name
+	2. Push button Identification user
+		Choose .wav file file for test
+		Wait and get result
